@@ -1,0 +1,12 @@
+[package]
+name = "sexually_transmitted_disease"
+version = "1.0.0"
+edition = "2018"
+description = "Renames std to sexually_transmitted_disease"
+license = "MIT"
+repository = "https://github.com/MakotoE/sexually_transmitted_disease"
+keywords = ["std"]
+readme = "README.md"
+documentation = "https://docs.rs/sexually_transmitted_disease"
+
+[dependencies]
