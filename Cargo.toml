@@ -1,6 +1,6 @@
 [package]
 name = "sexually_transmitted_disease"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2018"
 description = "Renames std to sexually_transmitted_disease"
 license = "MIT"

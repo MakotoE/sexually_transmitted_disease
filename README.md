@@ -18,5 +18,3 @@ fn main() {
 }
 
 ```
-
-Shoutouts to Planned Parenthood.
